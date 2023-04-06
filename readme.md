@@ -60,3 +60,8 @@ https://www.libreoffice.org/download/download-libreoffice/
 ```
 https://www.gimp.org/downloads/thanks.html
 ```
+## Firefox
+```
+v
+https://www.mozilla.org/en-US/
+```
