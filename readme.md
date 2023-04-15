@@ -47,6 +47,7 @@ B.Soft
 
 ## office
 ```
+https://macadmins.software/
 https://learn.microsoft.com/en-us/officeupdates/update-history-office-for-mac
 down：
 https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.66.22100900_Installer.pkg
