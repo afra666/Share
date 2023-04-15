@@ -53,6 +53,8 @@ down：
 https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.66.22100900_Installer.pkg
 CRK：2019+
 
+/Library/Application Support/Microsoft
+delete alert
 ```
 ## GIMP
 ```
